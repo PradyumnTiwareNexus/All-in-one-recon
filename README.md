@@ -1,8 +1,8 @@
 # All-in-one-recon
-Advanced Bug Bounty Recon Tool by Pradyumn Tiware (Version 2.1)
+Advanced Bug Bounty Recon Tool by PradyumnTiwareNexus (Version 2.1)
 # ⚡ Recon Pipeline Enhanced v2.1
 
-### **Created by: Pradyumn Tiware 🇮🇳**
+### **Created by: PradyumnTiwareNexus 🇮🇳**
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV2eXMwMWVrNjFwODdvaTh5YmtieGQ3M2syNXYyZG1qbHY1c2M3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgzryV9nRCMHPVVXPV/giphy.gif" width="450" />
