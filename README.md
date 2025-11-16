@@ -348,27 +348,6 @@ site:example.com "apikey"
 site:github.com example "token"
 ```
 
----
-
-## 🧩 Need More Help?
-
-Main tumhare liye:
-
-* full wiki bana sakta hoon,
-* advanced examples add kar sakta hoon,
-* images, diagrams, flowcharts bhi add kar dunga.
-
-Bas bata dena bhai 🙌
-
----
-
-## 🔧 Usage
-
-```bash
-chmod +x recon_pipeline_enhanced.sh
-./recon_pipeline_enhanced.sh target.com
-```
-
 ### Aggressive Mode:
 
 ```bash
