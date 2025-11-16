@@ -121,9 +121,9 @@ It performs subdomain enumeration → live detection → JS extraction → secre
 You can run it in **Normal Mode** or **Aggressive Mode**.
 
 ---
-## 🔧 Installation
+# 🔧 Installation
 
-Follow these simple steps to install and run **All-in-one-recon v2.1** on your machine.
+Follow these steps to install and run **All-in-one-recon v2.1**:
 
 ---
 
@@ -132,20 +132,23 @@ Follow these simple steps to install and run **All-in-one-recon v2.1** on your m
 ```bash
 git clone https://github.com/PradyumnTiwareNexus/All-in-one-recon.git
 ```
-
-### 📂 Enter the tool directory
-
-If you cloned using **git**:
+📂 Enter the tool directory
 
 ```bash
 cd All-in-one-recon
 ```
-## 2️⃣ Make the script executable
-
-```bash chmod +x recon_pipeline_enhanced.sh
+2️⃣ Make the script executable
+bash
+Copy code
+```chmod +x recon_pipeline_enhanced.sh
 ```
+## 📌 Basic Commands
 
-## 📌 Run the tool Commands
+### **1️⃣ Make script executable:**
+
+```bash
+chmod +x recon_pipeline_enhanced.sh
+```
 
 ### **2️⃣ Run on any domain:**
 
